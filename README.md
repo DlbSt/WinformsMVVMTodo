@@ -3,4 +3,4 @@ Basic Todo List application demonstrating how MVVM can be implemented using the 
 
 .NET 7, using [Prism](https://prismlibrary.com/)
 
-You can find more about the patterns and about the app in [this article](https://prismlibrary.com/).
+You can find more about the patterns and about the app in [this article](https://daliborstys.com/winforms/winforms-todo-list-using-mvvm-and-net7/).
